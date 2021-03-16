@@ -1,2 +1,2 @@
 # StudyMachineLearning
-Initial work on understanding MachineLearning
+Initial work on understanding MachineLearning/Deep Learning
